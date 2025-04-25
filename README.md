@@ -18,7 +18,7 @@ main.exe -D hacks.dll -P Notepad.exe
 ```
 
 # Resources
-I used these 2 websites below to make this
+native api functions documentation
 ```
 https://ntdoc.m417z.com/
 https://www.vergiliusproject.com/kernels/x64/windows-11/24h2
